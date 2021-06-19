@@ -1,0 +1,47 @@
+﻿@model IEnumerable<IPTMAdminPortal.Models.Insurer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Insurer List</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.InsurerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsurerPackageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AmountLimit)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DisbursementDuration)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsurerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsurerPackageName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountLimit)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DisbursementDuration)
+            </td>
+         
+        </tr>
+}
+    </tbody>
+</table>

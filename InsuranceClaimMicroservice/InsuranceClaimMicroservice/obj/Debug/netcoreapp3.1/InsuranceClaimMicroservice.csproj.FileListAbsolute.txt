@@ -1,0 +1,438 @@
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.AssemblyReference.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CTS Task\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+D:\Internship-MFPE\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.xml
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csprojAssemblyReference.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\keerthana\Desktop\InsuranceClaimMicroservice\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.xml
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache
+C:\Users\swarn\Downloads\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.AssemblyReference.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.xml
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.AssemblyReference.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.exe
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.deps.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\InsuranceClaimMicroservice.xml
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimMicroservice.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimMicroservice.styles.css
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.pdb
+D:\Internship-MFPE\IPTMS-git\IPTMS\InsuranceClaimMicroservice\InsuranceClaimMicroservice\obj\Debug\netcoreapp3.1\InsuranceClaimMicroservice.genruntimeconfig.cache

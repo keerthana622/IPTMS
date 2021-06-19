@@ -1,0 +1,442 @@
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.AssemblyReference.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+D:\Internship-MFPE\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csprojAssemblyReference.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.xml
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.xml
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.AssemblyReference.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\libman.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.xml
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.AssemblyReference.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.exe
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.deps.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.runtimeconfig.dev.json
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\TreatmentMicroservice.xml
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csprojAssemblyReference.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfoInputs.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.AssemblyInfo.cs
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentMicroservice.StaticWebAssets.xml
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentMicroservice.styles.css
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.csproj.CopyComplete
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.dll
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.pdb
+C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice\obj\Debug\netcoreapp3.1\TreatmentMicroservice.genruntimeconfig.cache

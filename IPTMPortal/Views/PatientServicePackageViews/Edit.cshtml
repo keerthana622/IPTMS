@@ -1,0 +1,49 @@
+﻿@model IPTMPortal.Models.PatientServicePackageView
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>PatientServicePackageView</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Ailment" class="control-label"></label>
+                <input asp-for="Ailment" class="form-control" />
+                <span asp-validation-for="Ailment" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="PackageName" />
+            <div class="form-group">
+                <label asp-for="TestDetails" class="control-label"></label>
+                <input asp-for="TestDetails" class="form-control" />
+                <span asp-validation-for="TestDetails" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cost" class="control-label"></label>
+                <input asp-for="Cost" class="form-control" />
+                <span asp-validation-for="Cost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duration" class="control-label"></label>
+                <input asp-for="Duration" class="form-control" />
+                <span asp-validation-for="Duration" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,77 @@
+﻿@model IPTMPortal.Models.TreatmentPlan
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Your Treatment Plan</h1>
+
+<div>
+   
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Patient)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Patient.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AilmentName)
+        </dt>
+        <dd class="col-sm-10">
+          
+            @Html.DisplayFor(model => model.AilmentName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PackageName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PackageName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TestDetails)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TestDetails)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cost)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cost)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SpecialistName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SpecialistName)
+        </dd>
+        <dt class="col-sm-2">
+            TreatmentStartDate
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TreatmentCommencementDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TreatmentEndDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TreatmentEndDate)
+        </dd>
+
+        <dt class="col-sm-2">
+            Status
+        </dt>
+        <dd class="col-sm-10">
+            @{ if (Model.TreatmentEndDate > DateTime.Now)
+                {   <p> In Progress </p>}
+               else
+                { <p>Completed</p>}
+             }
+        </dd>
+
+
+    </dl>
+</div>
+

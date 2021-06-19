@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "25w7lWBwtmkyOJMNRwq25A+mO5rLs8G3D7YgN1eN1QBEk+R/mrCw4uNvlIR1wSSaiPjZ5z67e/C0RfxltpOJWw==",
+  "success": true,
+  "projectFilePath": "D:\\Internship-MFPE\\IPTMS-git\\IPTMS\\TreatmentOffering\\TreatmentOffering\\TreatmentOffering.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swarn\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.13\\microsoft.extensions.configuration.binder.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.13\\microsoft.extensions.dependencyinjection.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.13\\microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.logging\\3.1.13\\microsoft.extensions.logging.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.13\\microsoft.extensions.logging.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.logging.log4net.aspnetcore\\5.0.3\\microsoft.extensions.logging.log4net.aspnetcore.5.0.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.options\\3.1.13\\microsoft.extensions.options.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\swarn\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

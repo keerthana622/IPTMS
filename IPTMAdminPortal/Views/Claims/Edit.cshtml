@@ -1,0 +1,64 @@
+﻿@model IPTMAdminPortal.Models.Claim
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Claim</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ClaimId" />
+            <div class="form-group">
+                <label asp-for="PlanId" class="control-label"></label>
+                <input asp-for="PlanId" class="form-control" />
+                <span asp-validation-for="PlanId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PatientName" class="control-label"></label>
+                <input asp-for="PatientName" class="form-control" />
+                <span asp-validation-for="PatientName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AilmentName" class="control-label"></label>
+                <input asp-for="AilmentName" class="form-control" />
+                <span asp-validation-for="AilmentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PackageName" class="control-label"></label>
+                <input asp-for="PackageName" class="form-control" />
+                <span asp-validation-for="PackageName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InsurerId" class="control-label"></label>
+                <select asp-for="InsurerId" class="form-control" asp-items="ViewBag.InsurerId"></select>
+                <span asp-validation-for="InsurerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InsurerName" class="control-label"></label>
+                <input asp-for="InsurerName" class="form-control" />
+                <span asp-validation-for="InsurerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PaybleBalance" class="control-label"></label>
+                <input asp-for="PaybleBalance" class="form-control" />
+                <span asp-validation-for="PaybleBalance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

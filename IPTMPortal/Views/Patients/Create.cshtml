@@ -1,0 +1,63 @@
+﻿@model IPTMPortal.Models.Patient
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+   @using System.Text.RegularExpressions;
+
+    <h1>Enter Details To Get A Plan</h1>
+
+
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" value=@Convert.ToString(Regex.Match(User.Identity.Name, @"^.*?(?=@)").Value) />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Age" class="control-label"></label>
+                    <input asp-for="Age" class="form-control" />
+                    <span asp-validation-for="Age" class="text-danger"></span>
+                </div>
+
+
+
+                <div class="form-group">
+                    <label asp-for="Ailment" class="control-label"></label>
+                    <div>
+                        @Html.DropDownListFor(m => m.Ailment, new SelectList(ViewBag.ail, "Ailment", "Ailment"), htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Ailment)
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label asp-for="PackageName" class="control-label"></label>
+                    <div>
+                        @Html.DropDownListFor(m => m.PackageName, new SelectList(ViewBag.pkg, "PackageName", "PackageName"), htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.PackageName)
+                    </div>
+                </div>
+
+
+                <div class="form-group">
+                    <label asp-for="CommencementDate" class="control-label"></label>
+                    <input asp-for="CommencementDate" class="form-control" value=@DateTime.Now />
+                    <span asp-validation-for="CommencementDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }

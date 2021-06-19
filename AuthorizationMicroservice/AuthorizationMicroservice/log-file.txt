@@ -1,0 +1,27 @@
+2021-06-18 18:48:35,929 INFO Application started. Press Ctrl+C to shut down.
+2021-06-18 18:48:35,968 INFO Hosting environment: Development
+2021-06-18 18:48:35,981 INFO Content root path: C:\Users\keerthana\Desktop\AuthorizationMicroservice\AuthorizationMicroservice\AuthorizationMicroservice
+2021-06-18 18:48:52,533 INFO Generating token using login credentials
+2021-06-18 18:48:52,535 INFO JWT Token is Invoked 
+2021-06-18 18:48:55,358 INFO Generating token using login credentials
+2021-06-18 18:48:55,359 INFO JWT Token is Invoked 
+2021-06-18 21:08:29,679 INFO Application started. Press Ctrl+C to shut down.
+2021-06-18 21:08:29,688 INFO Hosting environment: Development
+2021-06-18 21:08:29,692 INFO Content root path: C:\Users\swarn\Downloads\IPTMS NEW\AuthorizationMicroservice\AuthorizationMicroservice\AuthorizationMicroservice
+2021-06-18 21:09:29,706 INFO Generating token using login credentials
+2021-06-18 21:09:29,708 INFO JWT Token is Invoked 
+2021-06-18 21:10:16,561 INFO Generating token using login credentials
+2021-06-18 21:10:16,561 INFO JWT Token is Invoked 
+2021-06-18 21:10:26,974 INFO Generating token using login credentials
+2021-06-18 21:10:26,975 INFO JWT Token is Invoked 
+2021-06-18 21:10:36,495 INFO Generating token using login credentials
+2021-06-18 21:10:36,496 INFO JWT Token is Invoked 
+2021-06-18 21:10:57,803 INFO Generating token using login credentials
+2021-06-18 21:10:57,804 INFO JWT Token is Invoked 
+2021-06-18 22:05:46,639 INFO Application started. Press Ctrl+C to shut down.
+2021-06-18 22:05:46,646 INFO Hosting environment: Development
+2021-06-18 22:05:46,648 INFO Content root path: C:\Users\swarn\Downloads\IPTMS NEW\AuthorizationMicroservice\AuthorizationMicroservice
+2021-06-18 22:07:00,953 INFO Generating token using login credentials
+2021-06-18 22:07:00,955 INFO JWT Token is Invoked 
+2021-06-18 22:07:18,574 INFO Generating token using login credentials
+2021-06-18 22:07:18,574 INFO JWT Token is Invoked 

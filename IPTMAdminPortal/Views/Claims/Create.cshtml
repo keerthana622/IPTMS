@@ -1,0 +1,64 @@
+﻿@model IPTMAdminPortal.Models.Claim
+@using System.Net.Http
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Initiate Claim</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="PatientName" class="control-label"></label>
+                <input asp-for="PatientName" class="form-control" value=@ViewBag.Name />
+                <span asp-validation-for="PatientName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AilmentName" class="control-label"></label>
+                <input asp-for="AilmentName" class="form-control" value=@ViewBag.Ailment />
+                <span asp-validation-for="AilmentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PackageName" class="control-label"></label>
+                <input asp-for="PackageName" class="form-control" value=@ViewBag.pkg />
+                <span asp-validation-for="PackageName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+               
+                <input asp-for="InsurerId" class="form-control" value=@ViewBag.Insid type = "hidden" readonly/>
+               
+            </div>
+
+
+
+            <div class="form-group">
+                <label asp-for="InsurerName" class="control-label"></label>
+                <div>
+                    @Html.DropDownListFor(m => m.InsurerName, new SelectList(ViewBag.Ins, "InsurerName", "InsurerName"), htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.InsurerName)
+                </div>
+            </div>
+          
+
+
+
+           
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<IPTMAdminPortal.Models.Claim>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Claims History</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.PatientName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AilmentName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PackageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Insurer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InsurerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaybleBalance)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AilmentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PackageName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Insurer.InsurerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InsurerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaybleBalance)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ClaimId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ClaimId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ClaimId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

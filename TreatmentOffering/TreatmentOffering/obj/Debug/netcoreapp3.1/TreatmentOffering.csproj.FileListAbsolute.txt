@@ -1,0 +1,197 @@
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\CTS Task\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS-18.06.2021\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.exe
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csprojAssemblyReference.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\TreatmentOffering.xml
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keerthana\Desktop\Offering\Offering\TreatmentOffering\TreatmentOffering\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\log4net.config
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.Development.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.exe
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Users\swarn\Downloads\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\log4net.config
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.Development.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.exe
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.deps.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+C:\Users\singh\Downloads\Final Final\IPTMS NEW\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.AssemblyReference.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfoInputs.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.AssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CoreCompileInputs.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cs
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.MvcApplicationPartsAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.Manifest.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\staticwebassets\TreatmentOffering.StaticWebAssets.xml
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\scopedcss\bundle\TreatmentOffering.styles.css
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.RazorTargetAssemblyInfo.cache
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\log4net.config
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.Development.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\appsettings.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.exe
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.deps.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.runtimeconfig.dev.json
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.dll
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering.xml\netcoreapp3.1\TreatmentOffering.pdb
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.csproj.CopyComplete
+D:\Internship-MFPE\IPTMS-git\IPTMS\TreatmentOffering\TreatmentOffering\obj\Debug\netcoreapp3.1\TreatmentOffering.genruntimeconfig.cache

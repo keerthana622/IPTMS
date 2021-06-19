@@ -1,0 +1,53 @@
+﻿@model IPTMAdminPortal.Models.Claim
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Claim </h1>
+
+<div>
+    
+    <dl class="row">
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PatientName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PatientName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AilmentName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AilmentName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PackageName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PackageName)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InsurerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InsurerName)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.InsurerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.InsurerName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.PaybleBalance)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.PaybleBalance)
+        </dd>
+    </dl>
+</div>
+

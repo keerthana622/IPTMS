@@ -1,0 +1,134 @@
+2021-06-18 15:24:25,139 INFO Application started. Press Ctrl+C to shut down.
+2021-06-18 15:24:25,177 INFO Hosting environment: Development
+2021-06-18 15:24:25,188 INFO Content root path: C:\Users\keerthana\Desktop\TreatmentMicroservice (1)\TreatmentMicroservice\TreatmentMicroservice
+2021-06-18 15:25:21,065 INFO Patients plan details is being generated
+2021-06-18 15:25:26,594 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-18 15:25:28,680 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-18 15:25:29,563 ERROR There is no patient plan availableString '14=05-2021' was not recognized as a valid DateTime.
+2021-06-18 15:26:08,974 INFO Patients plan details is being generated
+2021-06-18 15:26:09,036 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-18 15:26:09,264 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-18 15:26:09,362 INFO Patient details along with plan is being saved
+2021-06-18 21:45:57,623 INFO Application started. Press Ctrl+C to shut down.
+2021-06-18 21:45:57,634 INFO Hosting environment: Development
+2021-06-18 21:45:57,635 INFO Content root path: C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-18 21:47:30,386 INFO Patients plan details is being generated
+2021-06-18 21:47:31,610 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-18 21:47:31,984 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-18 21:47:32,070 INFO Patient details along with plan is being saved
+2021-06-19 09:01:08,420 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 09:01:08,443 INFO Hosting environment: Development
+2021-06-19 09:01:08,445 INFO Content root path: C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 10:30:51,064 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 10:30:51,073 INFO Hosting environment: Development
+2021-06-19 10:30:51,075 INFO Content root path: C:\Users\swarn\Downloads\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 10:31:12,708 INFO Generating plan...
+2021-06-19 10:31:13,862 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 10:31:14,250 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 10:31:14,309 INFO Patient details along with plan is being saved
+2021-06-19 10:31:14,648 INFO Plan generated and returned.
+2021-06-19 14:23:44,399 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 14:23:44,431 INFO Hosting environment: Development
+2021-06-19 14:23:44,436 INFO Content root path: F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 14:24:46,328 INFO Generating plan...
+2021-06-19 14:24:49,173 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 14:24:49,937 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 14:24:50,012 INFO Patient details along with plan is being saved
+2021-06-19 14:24:50,627 INFO Plan generated and returned.
+2021-06-19 14:25:32,586 INFO Generating plan...
+2021-06-19 14:25:32,724 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 14:25:32,776 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 14:25:32,785 INFO Patient details along with plan is being saved
+2021-06-19 14:25:32,790 INFO Plan generated and returned.
+2021-06-19 17:28:35,172 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 17:28:35,205 INFO Hosting environment: Development
+2021-06-19 17:28:35,214 INFO Content root path: F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 17:30:13,261 INFO Generating plan...
+2021-06-19 17:30:21,547 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 17:30:23,304 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 17:30:23,522 INFO Patient details along with plan is being saved
+2021-06-19 17:30:24,576 INFO Plan generated and returned.
+2021-06-19 18:32:13,925 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 18:32:13,966 INFO Hosting environment: Development
+2021-06-19 18:32:13,977 INFO Content root path: F:\Projects\CTS Task\IPTMS NEW\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 18:33:31,350 INFO Generating plan...
+2021-06-19 18:33:34,420 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 18:33:35,291 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 18:33:35,399 INFO Patient details along with plan is being saved
+2021-06-19 18:33:35,897 INFO Plan generated and returned.
+2021-06-19 18:55:16,969 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 18:55:17,026 INFO Hosting environment: Development
+2021-06-19 18:55:17,037 INFO Content root path: C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 18:56:13,976 INFO Generating plan...
+2021-06-19 18:56:32,514 ERROR An error occurred using the connection to database 'TreatmentDB' on server 'DESKTOP-ER3VCP8'.
+2021-06-19 18:56:33,521 ERROR An exception occurred while iterating over the results of a query for context type 'TreatmentMicroservice.Models.TreatmentContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+ ---> System.ComponentModel.Win32Exception (53): The network path was not found.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20
+2021-06-19 18:56:34,452 ERROR Some error occurred while generating plan for Keerthana!
+ A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2021-06-19 19:03:05,133 INFO Application started. Press Ctrl+C to shut down.
+2021-06-19 19:03:05,179 INFO Hosting environment: Development
+2021-06-19 19:03:05,184 INFO Content root path: C:\Users\keerthana\Desktop\Final Project\IPTMS\TreatmentMicroservice\TreatmentMicroservice
+2021-06-19 19:04:45,789 INFO Generating plan...
+2021-06-19 19:04:48,112 INFO Pateinsts Package List from Offering Microservice is being invoked
+2021-06-19 19:04:53,178 INFO Pateinsts Specialist List from Offering Microservice is being invoked
+2021-06-19 19:04:53,699 INFO Patient details along with plan is being saved
+2021-06-19 19:04:54,495 INFO Plan generated and returned.

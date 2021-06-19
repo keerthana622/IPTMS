@@ -1,0 +1,47 @@
+﻿@model IEnumerable<IPTMPortal.Models.PatientServicePackageView>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Offerings</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Ailment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TestDetails)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Duration)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ailment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TestDetails)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duration)
+            </td>
+          
+        </tr>
+}
+    </tbody>
+</table>
