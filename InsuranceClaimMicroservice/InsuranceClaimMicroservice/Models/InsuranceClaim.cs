@@ -19,7 +19,7 @@ namespace InsuranceClaimMicroservice.Models
         public Insurer Insurer { get; set; }
         [ForeignKey("Insurer")]
         public int InsurerId { get; set; }
-        public string InsurerName { get; set; }
+        public string PayName { get; set; }
         public double PaybleBalance { get; set; }
     }
 }
